@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px yellow;
+}
+.heading_div
+{
+    float: none;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 20px;
+    color: darkgreen;
+    box-shadow: 5px 5px 5px darkgreen;
+}
+.heading_div2
+{
+    font-size: 20px;
+}
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px greenyellow;
+    font-size: 25px;
+}
+.footer
+{
+    position: fixed;
+    background-color: darkgreen;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+        border: 5px dashed limegreen;
+        box-shadow: 5px 5px 5px greenyellow;
+        margin-top: 170px;
+
+}
